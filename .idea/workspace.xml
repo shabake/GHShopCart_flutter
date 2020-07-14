@@ -1,10 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d1f150a-6f54-4387-9772-66ab1b256d93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/city_pickers/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/city_pickers/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/city_pickers/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/city_pickers/example/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/city_pickers/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/city_pickers/example/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/flutter_webview_plugin/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/flutter_webview_plugin/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/flutter_webview_plugin/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/flutter_webview_plugin/example/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/flutter_webview_plugin/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/flutter_webview_plugin/example/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/fluttertoast/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/fluttertoast/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/fluttertoast/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/fluttertoast/example/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/fluttertoast/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/fluttertoast/example/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences/example/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences/example/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_macos/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_macos/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_macos/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_macos/example/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_macos/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_macos/example/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_web/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_web/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/shared_preferences_web/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/build/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/example/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/example/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/ghshopcart_flutter_android.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/gradlew">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/last_build_run.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
     <option name="y" value="23" />
     <option name="width" value="1883" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GHShopCart_flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GHShopCart_flutter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GHShopCart_flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GHShopCart_flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GHShopCart_flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GHShopCart_flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GHShopCart_flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GHShopCart_flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GHShopCart_flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GHShopCart_flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GHShopCart_flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GHShopCart_flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -12,10 +174,110 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d1f150a-6f54-4387-9772-66ab1b256d93" name="Default Changelist" comment="" />
+      <created>1593271480254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593271480254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="23" width="1883" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32971212" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/snapshot_blob.bin.d">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/last_build_run.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/ghshopcart_flutter_android.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
